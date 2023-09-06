@@ -1,6 +1,7 @@
 # cbt_app
 
 A new Flutter project.
+A CBT-App that was created using Dart and Flutter framework.
 
 ## Getting Started
 
